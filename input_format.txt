@@ -1,0 +1,7 @@
+Ind_name	Geo_Cat	Struct_Cat	MK01		Mk02	
+Ind01	CHN	pop1	187	187	129	156
+Ind02	KOR	pop2	169	169	158	158
+Ind03	USA	pop3	?	?	369	158
+Ind04	CHN	pop2	135	187	156	156
+Ind05	JPN	pop4	234	146	.	.
+Ind06	UK	pop1	158	158	135	156
